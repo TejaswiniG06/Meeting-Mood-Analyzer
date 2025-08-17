@@ -1,0 +1,12 @@
+
+---
+
+### 3️⃣ Create a `.gitignore`
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.png
+*.csv
+*.txt
+reports/
